@@ -1,12 +1,26 @@
-## Hi there 👋
+# Welcome to Venturing Intellect 👋
 
-<!--
+We are a community of software experts who are enthusiastic about coding with AI. Here you can find resources to join the journey.
 
-**Here are some ideas to get you started:**
+### 🔬 Evaluation and comparison of AI coding tools
+We evaluated and different tools with the same project to have same comparison base. You can find, which of the AI coding tool is the best.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+https://github.com/Venturing-Intellect/code-assist-comp
+
+### 📖 E-book: AI Coding For Beginners (Winter 2025 Edition)
+A Learner’s Guide to Programming with AI, Review of the Latest Tools, and Hands-On Projects.
+
+Under construction... Link will be added soon.
+
+### 🌟 One prompt challenge
+We challenge you to create a computer program with one AI prompt and showcase it to others.
+
+https://github.com/Venturing-Intellect/one-prompt-challenge
+
+### 🧑‍🤝‍🧑 Discord server
+Join the discussion in our discord server.
+
+https://discord.gg/teWaGqJV22
+
+### 🍿 Youtube channel
+https://www.youtube.com/@VenturingIntellect
